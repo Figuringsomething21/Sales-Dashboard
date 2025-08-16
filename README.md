@@ -1,14 +1,9 @@
-# 📊 Sales-Dashboard
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e69ad01-c465-4dd0-8254-d87957836ea6" /><img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/aab347fb-ff04-4203-a51d-5b691adb05d9" /># 📊 Sales-Dashboard
 This dataset contains detailed sales transactions across multiple regions, sales representatives, and product categories. It is designed for data analysis, visualization, and business intelligence projects. 
 
-[![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-in/microsoft-365/excel)  
-[![Status](https://img.shields.io/badge/Status-Completed-blue)]()  
-[![Data](https://img.shields.io/badge/Data-Sales%20Analysis-orange)]()  
+## Dataset Used
+<a href=https://github.com/Figuringsomething21/Sales-Dashboard/blob/main/Sales.Project.xlsx>Dataset View</a>
 
-## 🖼️ Dashboard Preview  
-
-![Dashboard Screenshot](preview.png)  
- 
 ## 🚀 Features  
 ✅ Sales vs. Target analysis with achievement %  
 ✅ Regional and product-wise sales performance  
@@ -17,6 +12,9 @@ This dataset contains detailed sales transactions across multiple regions, sales
 ✅ Target achievement status (Achieved vs. Not Achieved)  
 ✅ Interactive visuals using **Pivot Tables, Charts, Slicers, and Conditional Formatting**  
 
+---
+## 🖼️ Dashboard Preview  
+<a href= https://github.com/Figuringsomething21/Sales-Dashboard/blob/main/Sales%20Dashboard%20Screenshot.png>Dashboard view</a>
 ---
 
 ## 📈 Key Insights  
@@ -32,6 +30,7 @@ This dataset contains detailed sales transactions across multiple regions, sales
 - Microsoft Excel  
 - Pivot Tables & Charts  
 - Data Cleaning & Dashboard Design  
-
-## 📂 Repository Structure  
-
+💡Looking for a Custom Dashboard? Let's Connect ✅
+<img width="1288" height="576" alt="Sales Dashboard Screenshot" src="https://github.com/user-attachments/assets/ef143f22-e2a5-4b8e-a68e-cae1b77efcaf" />
+### 🔖 Tags
+#sales #data-analysis #excel-dashboard #data-visualization #business-intelligence

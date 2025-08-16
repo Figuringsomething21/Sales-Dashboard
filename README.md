@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e69ad01-c465-4dd0-8254-d87957836ea6" /><img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/aab347fb-ff04-4203-a51d-5b691adb05d9" /># 📊 Sales-Dashboard
+# 📊 Sales-Dashboard
 This dataset contains detailed sales transactions across multiple regions, sales representatives, and product categories. It is designed for data analysis, visualization, and business intelligence projects. 
 
 ## Dataset Used
